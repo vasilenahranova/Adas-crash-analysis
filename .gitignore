@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files (downloaded from NHTSA, not committed)
+data/raw/
+data/processed/
